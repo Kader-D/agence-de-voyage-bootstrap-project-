@@ -1,0 +1,9 @@
+body{
+    background-color: dark;
+}
+
+#hero{
+    background-image: url(image/santorini-bg.png);
+    background-size: cover;
+     
+}
